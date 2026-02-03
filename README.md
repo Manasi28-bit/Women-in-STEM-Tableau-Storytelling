@@ -42,5 +42,5 @@ Download the `.twbx` file and open it using **Tableau Desktop**.
 ---
 
 ## Author
-**Mansi Shivnekar**  
+**Manasi Shivnekar**  
 Aspiring Data Analyst | Tableau | Power BI | SQL | Python
